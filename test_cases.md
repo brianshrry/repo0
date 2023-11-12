@@ -10,7 +10,7 @@ Description: After every item is added to cart, navigate to checkout, and buy th
 Steps to execute: Add each item to cart. Click on the cart in the top right corner of the page. Click on checkout
   near bottom right of page. Enter first name, last name, and zip code. Click continue. Click finish. Click back home.
 Expected results: There should be a checkout page with the information confirming that the items were puechased.
-Test data: na
+Test data: n/a
 
 Title: Add and remove all items to and from cart from homepage.
 Description: Add each item to the cart from the homepage, then remove them all from the homepage as well.
