@@ -24,9 +24,8 @@ Steps to execute: Click on image or link to individual items on homepage. Click 
 Expected results: The items should all be added to the cart.
 Test data: n/a
 
-Title: Add and remove all items to and from cart from respective item pages.
-Description: Add and remove all items to and from the cart on their respective pages.
-Steps to execute: Click on image or link for individual items on homepage. Click add to cart on each item page.
-  Click remove.
+Title: Remove all items from cart from respective item pages.
+Description: Remove all items from the cart on their respective pages.
+Steps to execute: After the items are added, remove them on the same page for each item.
 Expected results: Each item should be added to cart, and then removed.
 Test data: n/a
